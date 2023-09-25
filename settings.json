@@ -1,0 +1,7 @@
+{
+  "theme": "auto",
+  "replaceType": "symlink",
+  "gameRoot": "E:/Game/HoneyCome",
+  "modDirectory": "./mods",
+  "profileName": "modme.json"
+}
